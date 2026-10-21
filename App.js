@@ -84,6 +84,8 @@ export default function App() {
               <TouchableOpacity onPress={() => onEliminar(item)}>
                 <Text style={styles.eliminar}>Eliminar</Text>
               </TouchableOpacity>
+
+              
             </View>
           )}
         />
